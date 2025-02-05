@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2049may
-- 👀 I’m interested in music, playing guitar, movies
-- 🌱 I’m currently learning Javascript and PHP
+- 👀 I’m interested in music, learning instruments, cinema
+- 🌱 I’m currently learning Vue.js, Symfony and Docker
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : i'm not reachable for the moment --->
 - 😄 Pronouns: she/her
